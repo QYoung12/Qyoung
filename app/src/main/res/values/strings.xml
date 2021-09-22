@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="time">date</string>
+
+    <string name="score1">TeamA</string>
+    <string name="ShowScore1">ShowScore</string>
+    <string name="score2">TeamB</string>
+    <string name="ShowScore2">ShowScore</string>
+</resources>
